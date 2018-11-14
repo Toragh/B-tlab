@@ -1,4 +1,5 @@
-%Task 1b)
+% Task 1
+%b)
 data = load('boat_variables.mat');
 w_1 =0.005; 
 w_2 =0.05;

@@ -1,5 +1,5 @@
 clear all
-%Task 3
+% Task 3
 %c)
 w_r = 30;
 w_c = 0.1;

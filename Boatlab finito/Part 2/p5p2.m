@@ -1,8 +1,7 @@
 clear all
 global w_0 max_intensity; 
 
-%Part 2
-
+% Part 2
 %a)
 data = load('boat_variables.mat');
 info = load('wave.mat');
