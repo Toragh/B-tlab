@@ -1,3 +1,4 @@
+%Function handle for analytic PSD
 function y = pxx_a(lambda, w)
     global w_0 max_intensity;
     K_w = (2*lambda*w_0*sqrt(max_intensity));
